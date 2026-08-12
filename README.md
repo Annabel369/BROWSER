@@ -1,4 +1,6 @@
 # DOS Web Browser 🌐🖥️
+<img width="1024" height="1028" alt="Gemini_Generated_Image_ld4deld4deld4del" src="https://github.com/user-attachments/assets/484382fa-8ebe-4286-a9c0-b9384af23b90" />
+
 
 Um projeto retrô e nostálgico: um navegador web (web browser) básico feito inteiramente em **C++** para rodar em ambientes **MS-DOS**, utilizando o lendário compilador **Borland C++ 3.1** e a biblioteca gráfica **BGI** (Borland Graphics Interface).
 
